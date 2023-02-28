@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/aUu3DNh' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNjNTE2ZDVkYmE3ZWE1ZjQyYTBjOWEwNDE4OTE4Y2FiYTRjMjU5MCZjdD1n/0hwdFQXJMIsiiOurtJ/giphy.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 ## Notes
 My only challenge building this app is the Xcode's version. FYI, Xcode 14.3 beta does not work smoothly so I recommend iOS developers use Xcode 14.2. It is much easier to launch the simulator and run.
